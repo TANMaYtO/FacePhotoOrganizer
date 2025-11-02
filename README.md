@@ -21,7 +21,7 @@ Install required libraries:
 pip install -r requirements.txt
 Key dependencies:
 
-face_recognition!!
+face_recognition
 opencv-python
 google-auth, google-auth-oauthlib, google-auth-httplib2
 google-api-python-client
